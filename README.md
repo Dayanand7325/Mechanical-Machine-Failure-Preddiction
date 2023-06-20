@@ -14,5 +14,5 @@ heat dissipation failure (HDF)
 power failure (PWF)
 overstrain failure (OSF)
 random failures (RNF
-#Target Variable - 
+# Target Variable - 
 Machine Failure
